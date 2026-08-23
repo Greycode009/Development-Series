@@ -155,3 +155,11 @@
 - Added **image type & 2 MB size validation**
 - Built **upload error handling** with clean JSON responses
 - Organized the upload feature using **routes, controllers & middleware** and tested the complete flow
+
+## Day 20 — Cloud Image Uploads ☁️
+
+- Learned **cloud storage** for backend file uploads
+- Used **Multer `memoryStorage()`**
+- Uploaded images directly to **Supabase Storage**
+- Generated and used **public image URLs**
+- Built a reusable **Node.js + Supabase upload flow** ✅
