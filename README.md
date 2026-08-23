@@ -162,4 +162,4 @@
 - Used **Multer `memoryStorage()`**
 - Uploaded images directly to **Supabase Storage**
 - Generated and used **public image URLs**
-- Built a reusable **Node.js + Supabase upload flow** ✅
+- Built a reusable **Node.js + Supabase upload flow** 
