@@ -162,4 +162,11 @@
 - Used **Multer `memoryStorage()`**
 - Uploaded images directly to **Supabase Storage**
 - Generated and used **public image URLs**
-- Built a reusable **Node.js + Supabase upload flow** 
+- Built a reusable **Node.js + Supabase upload flow**
+
+## Day 21 — File Management ☁️
+
+- Implemented **single-file deletion** from Supabase Storage
+- Added **multiple-file deletion** using batch operations
+- Built reusable **file management services**
+- Debugged and fixed **Supabase Storage API errors** 🛠️
