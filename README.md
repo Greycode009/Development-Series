@@ -170,3 +170,11 @@
 - Added **multiple-file deletion** using batch operations
 - Built reusable **file management services**
 - Debugged and fixed **Supabase Storage API errors** 🛠️
+
+## Day 22 — E-commerce API 🛒
+- Designed the E-commerce API architecture
+- Defined Consumer, Merchant, and Super Admin roles
+- Designed Product, Cart, Order, and Inventory systems
+- Set up MongoDB Atlas with Mongoose
+- Built the Product model
+- Implemented the Product creation API
