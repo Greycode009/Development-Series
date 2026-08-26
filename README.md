@@ -178,3 +178,16 @@
 - Set up MongoDB Atlas with Mongoose
 - Built the Product model
 - Implemented the Product creation API
+
+## Day 23 — E-commerce Product CRUD & Cart
+- Completed Product CRUD APIs
+- Implemented Zod validation
+- Implemented `AppError` and Global Error Handler
+- Added proper 404 and invalid ObjectId error handling
+- Refactored controllers to use centralized error handling
+- Built Cart and CartItem schemas
+- Implemented Get Cart API
+- Implemented Add-to-Cart business logic
+- Added stock and duplicate-item handling
+- Implemented dynamic cart subtotal calculation
+- Tested APIs and committed changes
