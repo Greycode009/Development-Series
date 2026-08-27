@@ -191,3 +191,21 @@
 - Added stock and duplicate-item handling
 - Implemented dynamic cart subtotal calculation
 - Tested APIs and committed changes
+
+## Day 24 — E-commerce Authentication and Authorization
+
+- Implemented User model with roles and verification status
+- Implemented user registration with Argon2id password hashing
+- Implemented OTP-based email verification
+- Added OTP hashing and 10-minute expiration with TTL index
+- Implemented OTP resend functionality
+- Implemented login with JWT access and refresh tokens
+- Added session management for refresh tokens
+- Stored refresh tokens in HTTP-only cookies
+- Implemented access token refresh
+- Implemented logout and logout from all devices
+- Implemented authentication middleware and attached authenticated user to `req.user`
+- Implemented role-based authorization for consumer, merchant, and admin
+- Tested authentication and authorization flows
+- Committed changes and created Pull Request
+- Reviewed, merged PR, and deleted feature branch
