@@ -209,3 +209,13 @@
 - Tested authentication and authorization flows
 - Committed changes and created Pull Request
 - Reviewed, merged PR, and deleted feature branch
+
+## Day 25 — E-commerce Merchant Registration
+
+- Created Merchant feature structure and model
+- Implemented merchant registration flow
+- Added merchant registration validation
+- Added pending merchant approval status
+- Implemented merchant registration API
+- Secured registration response by removing password
+- Tested merchant registration successfully
