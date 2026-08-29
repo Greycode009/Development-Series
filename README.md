@@ -219,3 +219,14 @@
 - Implemented merchant registration API
 - Secured registration response by removing password
 - Tested merchant registration successfully
+
+## Day 26 — E-commerce Merchant Onboarding & Authorization
+
+- Implemented merchant OTP verification
+- Added merchant role-based authorization
+- Built protected merchant profile API
+- Connected products with authenticated merchants
+- Added merchant product ownership protection
+- Tested merchant and consumer access
+- Tested cross-merchant product protection
+- Committed, merged PR, and deleted feature branch
