@@ -230,3 +230,12 @@
 - Tested merchant and consumer access
 - Tested cross-merchant product protection
 - Committed, merged PR, and deleted feature branch
+
+## Day 27 — E-commerce Cart Authentication & User Integration
+
+- Replaced temporary `consumerId` with authenticated `userId`
+- Updated Cart ownership to use the authenticated user
+- Added consumer-only Cart authorization
+- Updated Cart services to use `req.user.id`
+- Tested Cart access, Add-to-Cart, and authorization
+- Tested complete Merchant → Product → Consumer → Cart flow
