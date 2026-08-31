@@ -239,3 +239,12 @@
 - Updated Cart services to use `req.user.id`
 - Tested Cart access, Add-to-Cart, and authorization
 - Tested complete Merchant → Product → Consumer → Cart flow
+
+## Day 28 — E-commerce Cart Management
+
+- Implemented cart item quantity update
+- Added quantity and stock validation
+- Implemented individual cart item removal
+- Implemented clear cart functionality
+- Added dynamic subtotal recalculation
+- Completed and tested the full Cart management flow
