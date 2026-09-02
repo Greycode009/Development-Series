@@ -172,6 +172,7 @@
 - Debugged and fixed **Supabase Storage API errors** 🛠️
 
 ## Day 22 — E-commerce API 🛒
+
 - Designed the E-commerce API architecture
 - Defined Consumer, Merchant, and Super Admin roles
 - Designed Product, Cart, Order, and Inventory systems
@@ -180,6 +181,7 @@
 - Implemented the Product creation API
 
 ## Day 23 — E-commerce Product CRUD & Cart
+
 - Completed Product CRUD APIs
 - Implemented Zod validation
 - Implemented `AppError` and Global Error Handler
@@ -256,3 +258,11 @@
 - Added product and stock validation
 - Added purchase-time price snapshotting
 - Implemented stock reduction and automatic cart clearing
+
+## Day 30 — Order Management & Order History
+
+- Implemented consumer order history
+- Added secure order details with ownership protection
+- Added merchant-specific order management
+- Implemented merchant order status updates
+- Added consumer order cancellation with stock restoration
