@@ -274,3 +274,11 @@
 - Implemented Payment Creation & Ownership Protection
 - Added Payment Status & Transaction ID
 - Connected Successful Payment → Order Confirmation
+
+## Day 32 - Admin Management
+
+- Built the Admin Management System
+- Added Admin User & Merchant Management
+- Implemented Admin Order Management
+- Added User Activate / Deactivate & Delete
+- Added Admin Security & Authorization Testing
