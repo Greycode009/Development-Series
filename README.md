@@ -282,3 +282,11 @@
 - Implemented Admin Order Management
 - Added User Activate / Deactivate & Delete
 - Added Admin Security & Authorization Testing
+
+## Day 33 - Reviews & Ratings
+
+- Built the Product Reviews & Ratings system
+- Added review creation with purchase verification
+- Implemented one-review-per-product protection
+- Added review update and delete functionality with ownership security
+- Implemented product reviews, average rating & total review calculation
