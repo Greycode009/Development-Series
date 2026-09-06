@@ -298,4 +298,4 @@
 - Implemented pagination with complete pagination metadata
 - Added price and date-based sorting
 - Completed query validation, full API testing & security testing
-- Deployed the E-commerce API to Render with MongoDB Atlas 🚀
+- Deployed the E-commerce API to Render with MongoDB Atlas 
