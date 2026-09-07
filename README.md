@@ -299,3 +299,12 @@
 - Added price and date-based sorting
 - Completed query validation, full API testing & security testing
 - Deployed the E-commerce API to Render with MongoDB Atlas 
+
+## Day 35 - Swagger API Documentation**
+
+- Added OpenAPI 3.0 specification for the E-commerce API
+- Integrated Swagger UI with Express and created `/api-docs`
+- Documented all 39 API endpoints across all major features
+- Added JWT Bearer authentication documentation for protected routes
+- Documented request parameters, request bodies, responses, and status codes
+- Tested Swagger UI and verified the complete API documentation
