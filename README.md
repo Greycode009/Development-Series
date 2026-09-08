@@ -308,3 +308,11 @@
 - Added JWT Bearer authentication documentation for protected routes
 - Documented request parameters, request bodies, responses, and status codes
 - Tested Swagger UI and verified the complete API documentation
+
+## Day 36 - WebSocket Foundations
+
+- Learned the fundamentals of **WebSockets** and real-time communication
+- Understood the difference between **REST APIs and WebSockets**
+- Learned the **WebSocket connection lifecycle**
+- Understood **events and bidirectional communication**
+- Explored the basic **real-time messaging flow** between clients and server
