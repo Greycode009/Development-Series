@@ -316,3 +316,11 @@
 - Learned the **WebSocket connection lifecycle**
 - Understood **events and bidirectional communication**
 - Explored the basic **real-time messaging flow** between clients and server
+
+## Day 37 - Real-Time Messaging & Chat Rooms
+
+- Implemented **custom Socket.IO events** for real-time messaging
+- Built **client-to-server and server-to-client** communication
+- Implemented **message broadcasting** to connected clients
+- Added **message payload validation** and disconnect handling
+- Implemented **chat room joining** with Socket.IO rooms
