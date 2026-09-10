@@ -324,3 +324,10 @@
 - Implemented **message broadcasting** to connected clients
 - Added **message payload validation** and disconnect handling
 - Implemented **chat room joining** with Socket.IO rooms
+
+## Day 38 - Room-Based Messaging
+
+- Refactored Socket.IO into a **feature-based structure**
+- Implemented **room join & leave** functionality
+- Added **room-based message broadcasting**
+- Tested **real-time communication between separate rooms**
