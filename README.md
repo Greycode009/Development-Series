@@ -331,3 +331,11 @@
 - Implemented **room join & leave** functionality
 - Added **room-based message broadcasting**
 - Tested **real-time communication between separate rooms**
+
+## Day 39 - Message Persistence & Presence
+
+- Added MongoDB message persistence with Mongoose
+- Implemented message history when joining a room
+- Added service-layer handling for message retrieval
+- Implemented online/offline presence tracking
+- Added room-based presence updates
