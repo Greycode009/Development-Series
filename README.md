@@ -339,3 +339,10 @@
 - Added service-layer handling for message retrieval
 - Implemented online/offline presence tracking
 - Added room-based presence updates
+
+## Day 40 - Socket Authentication
+
+- Added Socket.IO handshake authentication
+- Attached authenticated identity to the socket
+- Added server-controlled message sender identity
+- Persisted sender information with chat messages
