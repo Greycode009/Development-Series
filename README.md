@@ -347,3 +347,11 @@
 - Added server-controlled message sender identity
 - Persisted sender information with chat messages
 
+## Day 41 - JWT Socket Authentication
+
+- Replaced temporary username-based Socket.IO authentication with JWT-based authentication
+- Added JWT generation for testing authenticated socket connections
+- Implemented server-side JWT verification during the Socket.IO handshake
+- Added authentication middleware to validate incoming socket connections
+- Extracted and attached authenticated user information to the socket
+- Tested authenticated connections and rejection of missing/invalid JWTs
