@@ -346,3 +346,4 @@
 - Attached authenticated identity to the socket
 - Added server-controlled message sender identity
 - Persisted sender information with chat messages
+
