@@ -298,9 +298,9 @@
 - Implemented pagination with complete pagination metadata
 - Added price and date-based sorting
 - Completed query validation, full API testing & security testing
-- Deployed the E-commerce API to Render with MongoDB Atlas 
+- Deployed the E-commerce API to Render with MongoDB Atlas
 
-## Day 35 - Swagger API Documentation**
+## Day 35 - Swagger API Documentation\*\*
 
 - Added OpenAPI 3.0 specification for the E-commerce API
 - Integrated Swagger UI with Express and created `/api-docs`
@@ -355,3 +355,12 @@
 - Added authentication middleware to validate incoming socket connections
 - Extracted and attached authenticated user information to the socket
 - Tested authenticated connections and rejection of missing/invalid JWTs
+
+## Day 42 - Protected Rooms
+
+- Added authorization checks for protected rooms
+- Restricted admin room access to authorized users
+- Added server-side room join approval and rejection
+- Updated the client to confirm room access from the server
+- Tested authorized and unauthorized room access
+- Preserved existing authenticated room and messaging functionality
