@@ -389,3 +389,10 @@
 - Implemented secure password hashing and JWT authentication
 - Added real-time typing and stop-typing indicators
 - Tested authenticated chat with multiple users
+
+## Day 46 - WebRTC Voice Call Signaling
+
+- Set up a basic WebRTC peer connection
+- Added microphone audio stream handling
+- Implemented WebRTC offer creation
+- Added Socket.IO signaling for WebRTC offers
