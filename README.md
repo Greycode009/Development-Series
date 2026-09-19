@@ -396,3 +396,14 @@
 - Added microphone audio stream handling
 - Implemented WebRTC offer creation
 - Added Socket.IO signaling for WebRTC offers
+
+## Day 47 - Docker Fundamentals
+
+- Learned the core Docker concepts: Dockerfile, Image, and Container
+- Created a Dockerfile and built a Docker image for a Node.js application
+- Dockerized a Node.js/Express API and ran it inside a container
+- Learned Docker port mapping using host and container ports
+- Ran multiple containers from the same Docker image
+- Learned how `.dockerignore` prevents unnecessary files from being included in builds
+- Learned Docker volumes and how they provide persistent storage
+- Tested volume persistence by sharing data between containers
