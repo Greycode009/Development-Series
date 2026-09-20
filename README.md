@@ -407,3 +407,12 @@
 - Learned how `.dockerignore` prevents unnecessary files from being included in builds
 - Learned Docker volumes and how they provide persistent storage
 - Tested volume persistence by sharing data between containers
+
+## Day 48 - Docker Compose
+
+- Learned the fundamentals of Docker Compose
+- Created a `compose.yaml` to define multiple services
+- Ran Node.js/Express and MongoDB containers together
+- Learned how Docker Compose networking works using service names
+- Understood why containers communicate using service names instead of `localhost`
+- Practiced managing multiple containers with a single `docker compose up` command
