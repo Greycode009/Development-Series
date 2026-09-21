@@ -416,3 +416,11 @@
 - Learned how Docker Compose networking works using service names
 - Understood why containers communicate using service names instead of `localhost`
 - Practiced managing multiple containers with a single `docker compose up` command
+
+## Day 49 - Docker Deep Dive
+
+- Improved my understanding of Docker fundamentals and workflow
+- Practiced building and running Docker images
+- Learned how to tag images for Docker Hub
+- Pushed my Docker image to Docker Hub successfully
+- Learned how published images can be pulled and run on other machines
