@@ -424,3 +424,10 @@
 - Learned how to tag images for Docker Hub
 - Pushed my Docker image to Docker Hub successfully
 - Learned how published images can be pulled and run on other machines
+
+## Day 50 - GitHub Actions
+
+- Started learning GitHub Actions and CI/CD
+- Learned the basics of GitHub Actions workflows
+- Studied how automation can run on GitHub events
+- Learned how CI/CD can automate development workflows
