@@ -431,3 +431,10 @@
 - Learned the basics of GitHub Actions workflows
 - Studied how automation can run on GitHub events
 - Learned how CI/CD can automate development workflows
+
+## Day 51 - GitHub Actions
+
+- Implemented a GitHub Actions deployment workflow
+- Learned how to trigger workflows on `push` events
+- Configured SSH-based server deployment
+- Learned how Docker Compose can automate application deployment
