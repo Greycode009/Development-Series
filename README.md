@@ -438,3 +438,10 @@
 - Learned how to trigger workflows on `push` events
 - Configured SSH-based server deployment
 - Learned how Docker Compose can automate application deployment
+
+## Day 52 - Redis Product Caching
+
+- Connected Redis to the E-commerce API using Docker
+- Learned and practiced core Redis operations
+- Implemented dynamic cache keys for product queries
+- Implemented product caching with cache hit and cache miss handling
