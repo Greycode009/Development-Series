@@ -445,3 +445,17 @@
 - Learned and practiced core Redis operations
 - Implemented dynamic cache keys for product queries
 - Implemented product caching with cache hit and cache miss handling
+
+## Day 54 — Redis Cache Invalidation
+
+- Added cache invalidation
+- Prevented stale data
+- Updated product cache
+- Tested cache flow
+
+## Day 55 — Redis API Rate Limiting
+
+- Built Redis-based API rate limiting
+- Protected APIs from excessive requests
+- Implemented automatic request-window reset
+- Tested real-world rate-limit behavior
