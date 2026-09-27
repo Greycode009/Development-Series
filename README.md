@@ -452,3 +452,10 @@
 - Prevented stale data
 - Updated product cache
 - Tested cache flow
+
+## Day 55 — Redis API Rate Limiting
+
+- Built Redis-based API rate limiting
+- Protected APIs from excessive requests
+- Implemented automatic request-window reset
+- Tested real-world rate-limit behavior
