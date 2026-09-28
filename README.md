@@ -459,3 +459,10 @@
 - Protected APIs from excessive requests
 - Implemented automatic request-window reset
 - Tested real-world rate-limit behavior
+
+## Day 56 — System Design & Scalability
+
+- Learned scalability fundamentals
+- Compared vertical and horizontal scaling
+- Understood stateful vs stateless systems
+- Started designing scalable API architecture
