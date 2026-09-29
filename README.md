@@ -466,3 +466,10 @@
 - Compared vertical and horizontal scaling
 - Understood stateful vs stateless systems
 - Started designing scalable API architecture
+
+## Day 57 — Practical Load Balancing
+
+- Ran multiple API instances for horizontal scaling
+- Built a basic Round-Robin Load Balancer
+- Forwarded API requests through a single Load Balancer
+- Tested server failure and identified the need for health checks
