@@ -473,3 +473,10 @@
 - Built a basic Round-Robin Load Balancer
 - Forwarded API requests through a single Load Balancer
 - Tested server failure and identified the need for health checks
+
+## Day 58 — Load Balancer Health Checks
+
+- Added health checks to the Load Balancer
+- Detected unhealthy API instances before forwarding requests
+- Skipped unavailable servers during request routing
+- Tested server failure and verified traffic continues through healthy instances
