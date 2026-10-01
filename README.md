@@ -480,3 +480,12 @@
 - Detected unhealthy API instances before forwarding requests
 - Skipped unavailable servers during request routing
 - Tested server failure and verified traffic continues through healthy instances
+
+## Day 59 — Caching Strategy
+
+- Learned the **cache-aside pattern** and cache hit/miss flow
+- Analyzed **cache keys, TTL, and cache invalidation**
+- Improved Redis caching with **graceful failure handling**
+- Tested MongoDB fallback when **Redis is unavailable**
+- Made cache invalidation and rate limiting resilient to Redis failures
+- Understood Redis as a **performance layer**, while MongoDB remains the source of truth
