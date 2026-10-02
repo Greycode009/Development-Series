@@ -489,3 +489,11 @@
 - Tested MongoDB fallback when **Redis is unavailable**
 - Made cache invalidation and rate limiting resilient to Redis failures
 - Understood Redis as a **performance layer**, while MongoDB remains the source of truth
+
+## Day 60 — 2-Month Review
+
+- Strengthened system design fundamentals
+- Understood load balancing and health checks
+- Improved Redis caching and failure handling
+- Connected scalability with real-world failure scenarios
+- Reviewed the complete backend architecture
