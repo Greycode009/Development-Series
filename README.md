@@ -497,3 +497,11 @@
 - Improved Redis caching and failure handling
 - Connected scalability with real-world failure scenarios
 - Reviewed the complete backend architecture
+
+## Day 61 — Database Scaling
+
+- Learned database scaling fundamentals
+- Understood database bottlenecks
+- Learned primary vs read replicas
+- Understood read scaling and replication
+- Learned write → primary, read → replicas
