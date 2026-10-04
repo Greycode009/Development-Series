@@ -505,3 +505,11 @@
 - Learned primary vs read replicas
 - Understood read scaling and replication
 - Learned write → primary, read → replicas
+
+## Day 62 — Database Sharding
+
+- Learned database sharding fundamentals
+- Understood shard keys and data distribution
+- Learned how uneven sharding creates hotspots
+- Understood sharding vs read replicas
+- Learned how both can scale large systems
