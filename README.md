@@ -513,3 +513,11 @@
 - Learned how uneven sharding creates hotspots
 - Understood sharding vs read replicas
 - Learned how both can scale large systems
+
+## Day 63 - Database Replication
+
+- Learned how database replication creates copies of data for scalability and availability
+- Understood Primary and Read Replica architecture
+- Learned replication lag and read-after-write consistency
+- Compared replication with sharding and combined both in a scalable architecture
+- Learned synchronous vs asynchronous replication
