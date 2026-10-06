@@ -521,3 +521,10 @@
 - Learned replication lag and read-after-write consistency
 - Compared replication with sharding and combined both in a scalable architecture
 - Learned synchronous vs asynchronous replication
+
+## Day 64 - Database Indexing & Query Optimization
+
+- Learned how database indexes speed up queries
+- Understood single-field and compound indexes
+- Learned `COLLSCAN` vs `IXSCAN` and `explain()`
+- Understood index trade-offs for reads and writes
