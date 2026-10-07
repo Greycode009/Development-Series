@@ -528,3 +528,15 @@
 - Understood single-field and compound indexes
 - Learned `COLLSCAN` vs `IXSCAN` and `explain()`
 - Understood index trade-offs for reads and writes
+
+## Day 65 - Database Transactions & ACID
+
+- Learned what database transactions are and why they are needed
+- Understood `COMMIT` and `ROLLBACK`
+- Learned the ACID properties of transactions
+- Understood Atomicity: all operations succeed or all are undone
+- Understood Consistency: transactions keep the database in a valid state
+- Understood Isolation: concurrent transactions should not interfere incorrectly
+- Understood Durability: committed data persists after crashes or restarts
+- Learned how transactions prevent inconsistent states when related operations fail
+- Learned the basic MongoDB/Mongoose transaction flow using sessions
