@@ -540,3 +540,11 @@
 - Understood Durability: committed data persists after crashes or restarts
 - Learned how transactions prevent inconsistent states when related operations fail
 - Learned the basic MongoDB/Mongoose transaction flow using sessions
+
+## Day 66 - Database Isolation & Concurrency
+
+- Learned dirty, non-repeatable, and phantom reads
+- Understood the four database isolation levels
+- Learned how isolation levels control concurrent transactions
+- Understood Read Committed and Repeatable Read
+- Learned how Serializable provides the strongest isolation
