@@ -548,3 +548,11 @@
 - Learned how isolation levels control concurrent transactions
 - Understood Read Committed and Repeatable Read
 - Learned how Serializable provides the strongest isolation
+
+## Day 67 - Locking & Concurrency Control
+
+- Learned Shared and Exclusive locks
+- Understood the Two-Phase Locking (2PL) protocol
+- Learned the Growing and Shrinking phases
+- Understood how deadlocks occur
+- Learned consistent lock ordering to prevent deadlocks
