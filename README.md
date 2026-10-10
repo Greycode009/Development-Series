@@ -556,3 +556,11 @@
 - Learned the Growing and Shrinking phases
 - Understood how deadlocks occur
 - Learned consistent lock ordering to prevent deadlocks
+
+## Day 68 - Consistent Hashing
+
+- Learned how consistent hashing works.
+- Understood the hash ring.
+- Learned how adding or removing servers affects keys.
+- Understood load distribution.
+- Introduced virtual nodes.
