@@ -564,3 +564,11 @@
 - Learned how adding or removing servers affects keys.
 - Understood load distribution.
 - Introduced virtual nodes.
+
+## Day 69 - Consistent Hashing
+
+- Learned about virtual nodes.
+- Understood how virtual nodes improve key distribution.
+- Learned how adding servers affects key movement.
+- Understood that virtual nodes don't guarantee equal distribution.
+- Explored how virtual nodes help balance server load.
