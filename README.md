@@ -572,3 +572,12 @@
 - Learned how adding servers affects key movement.
 - Understood that virtual nodes don't guarantee equal distribution.
 - Explored how virtual nodes help balance server load.
+
+## Day 70 - Distributed Caching
+
+- Reviewed cache hits and cache misses in Redis.
+- Revisited cache invalidation and its role in removing outdated data.
+- Recalled how TTL automatically expires cached entries.
+- Practiced identifying stale cache data.
+- Reviewed cache-aside behavior on cache misses.
+- Explored how caching helps reduce
