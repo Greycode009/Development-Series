@@ -581,3 +581,12 @@
 - Practiced identifying stale cache data.
 - Reviewed cache-aside behavior on cache misses.
 - Explored how caching helps reduce
+
+## Day 71 - Message Queues & Asynchronous Processing
+
+- Learned how message queues work.
+- Understood background workers and asynchronous processing.
+- Explored worker scaling and backpressure.
+- Learned message acknowledgments and retries.
+- Understood idempotency and duplicate prevention.
+- Explored reliable task processing in distributed systems.
