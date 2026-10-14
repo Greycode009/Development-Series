@@ -590,3 +590,12 @@
 - Learned message acknowledgments and retries.
 - Understood idempotency and duplicate prevention.
 - Explored reliable task processing in distributed systems.
+
+## Light Review — FDE Journey
+
+- Reviewed message queues and handling temporary external-service failures.
+- Learned why background workers may process tasks more than once.
+- Reviewed idempotency and deduplication to prevent duplicate operations.
+- Learned how timeouts and controlled retries handle slow external APIs.
+- Reviewed backpressure to prevent uncontrolled task buildup.
+- Understood the importance of idempotency protections in payment integrations.
