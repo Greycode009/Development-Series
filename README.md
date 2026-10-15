@@ -599,3 +599,9 @@
 - Learned how timeouts and controlled retries handle slow external APIs.
 - Reviewed backpressure to prevent uncontrolled task buildup.
 - Understood the importance of idempotency protections in payment integrations.
+
+## Day 73 — API Integrations
+
+- Practiced handling external API failures and pending background tasks.
+- Learned idempotency keys to prevent duplicate payments.
+- Reviewed timeouts, bounded retries, backoff, and background processing.
