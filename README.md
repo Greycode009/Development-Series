@@ -605,3 +605,9 @@
 - Practiced handling external API failures and pending background tasks.
 - Learned idempotency keys to prevent duplicate payments.
 - Reviewed timeouts, bounded retries, backoff, and background processing.
+
+## Day 74 — AI Fundamentals
+
+- Explored real-world customer support problems and the FDE role.
+- Reviewed rule-based AI, machine learning, and neural network fundamentals.
+- Began learning how language models process human language.
