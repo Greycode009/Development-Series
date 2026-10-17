@@ -611,3 +611,10 @@
 - Explored real-world customer support problems and the FDE role.
 - Reviewed rule-based AI, machine learning, and neural network fundamentals.
 - Began learning how language models process human language.
+
+## Day 75 — Language Models & Transformers
+
+- Completed the Forward Deployed Engineering Full Course #1.
+- Learned how language models predict the next token from context.
+- Explored RNNs, Transformers, and the attention mechanism.
+- Understood how LLMs are built by scaling Transformers on large text data.
