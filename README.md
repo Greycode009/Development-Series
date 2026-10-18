@@ -618,3 +618,10 @@
 - Learned how language models predict the next token from context.
 - Explored RNNs, Transformers, and the attention mechanism.
 - Understood how LLMs are built by scaling Transformers on large text data.
+
+## Day 76 — How LLMs Work
+
+- Watched FDE Full Course #2 on how LLMs actually work.
+- Learned how text is split into tokens and token IDs.
+- Understood embeddings and how attention connects context.
+- Learned how Transformers generate text one token at a time.
