@@ -625,3 +625,11 @@
 - Learned how text is split into tokens and token IDs.
 - Understood embeddings and how attention connects context.
 - Learned how Transformers generate text one token at a time.
+
+## Day 77 — Self-Attention: Q, K, V
+
+- Learned how LLMs process text using tokens.
+- Reviewed next-token prediction.
+- Understood how context helps interpret words.
+- Learned how attention connects related tokens.
+- Reviewed how Transformers improve parallel processing compared to RNNs.
