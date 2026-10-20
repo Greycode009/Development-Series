@@ -633,3 +633,10 @@
 - Understood how context helps interpret words.
 - Learned how attention connects related tokens.
 - Reviewed how Transformers improve parallel processing compared to RNNs.
+
+## Day 78 — Integrating LLMs into Applications
+
+- Started FDE Full Course #3 (first half).
+- Learned how applications connect to LLMs through APIs.
+- Explored the request and response flow between an app and an LLM.
+- Understood the difference between an LLM and a GenAI application.
