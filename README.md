@@ -640,3 +640,12 @@
 - Learned how applications connect to LLMs through APIs.
 - Explored the request and response flow between an app and an LLM.
 - Understood the difference between an LLM and a GenAI application.
+
+## Day 79 — SupportPilot Support API
+
+- Started SupportPilot, an AI-assisted customer support platform.
+- Built an Express + MongoDB API with JWT auth, roles, and scoped order access.
+- Added an AI support agent limited to four approved backend tools.
+- Grounded AI answers in verified database records.
+- Built human handoff with an agent ticket queue and a React client.
+- Added cookie-based sessions, Docker Compose, CI, and tests.
