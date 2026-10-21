@@ -1,7 +1,5 @@
 # Day 79 — SupportPilot: AI-Assisted Support API
 
-Repository: https://github.com/Greycode009/Development-Series
-
 ## Today's Points
 
 - Started SupportPilot, an AI-assisted customer support platform for a small e-commerce store.
