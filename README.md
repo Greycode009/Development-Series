@@ -657,3 +657,11 @@
 - Made 847 structures across 11 organ systems tappable with educational entries.
 - Added Realistic and Educational modes, search, layers, cutaway, and guided tours.
 - Shipped an Android APK and published the v1.0.0 release.
+
+## Day 81 — SupportPilot Hardening & Evaluation
+
+- Hardened the order-lookup tools against bad AI responses, with 21 more tests.
+- Made failed AI turns return a clean error with nothing saved.
+- Reported the served model and token usage from the AI providers.
+- Built an offline evaluation of 20 conversations with three code checks (mock: 75% / 100% / 89%).
+- Drafted a live evaluation plan for real Claude calls.
