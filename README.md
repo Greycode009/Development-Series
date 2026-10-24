@@ -665,3 +665,10 @@
 - Reported the served model and token usage from the AI providers.
 - Built an offline evaluation of 20 conversations with three code checks (mock: 75% / 100% / 89%).
 - Drafted a live evaluation plan for real Claude calls.
+
+## Day 82 — Graceful Degradation in AI Apps
+
+- Learned graceful degradation in AI applications.
+- Explored fallback strategies when AI services fail.
+- Practiced using verified database data and human support.
+- Understood the importance of isolating failures and keeping customers informed.
