@@ -672,3 +672,11 @@
 - Explored fallback strategies when AI services fail.
 - Practiced using verified database data and human support.
 - Understood the importance of isolating failures and keeping customers informed.
+
+## Day 83 — LLM APIs, Tokens & Spring AI
+
+- Finished FDE Full Course #3 — Integrating LLM with Your Application.
+- Sent my first LLM request with Postman: endpoint, API key, model and input.
+- Learned input vs output tokens and how they affect cost, latency and context.
+- Connected Spring Boot to an LLM using Spring AI ChatClient.
+- Built a support-ticket summarizer API and learned System, User and Assistant roles.
