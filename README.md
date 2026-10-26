@@ -680,3 +680,11 @@
 - Learned input vs output tokens and how they affect cost, latency and context.
 - Connected Spring Boot to an LLM using Spring AI ChatClient.
 - Built a support-ticket summarizer API and learned System, User and Assistant roles.
+
+## Day 84 — LLM API Review & Token Costs
+
+- Revised how applications connect to LLM APIs and answered practice questions.
+- Understood why API keys stay on the backend server and never in the client.
+- Explored how applications send context to the LLM with each request.
+- Learned how input and output tokens decide the API cost.
+- Understood how to track token usage per customer for billing.
