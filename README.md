@@ -688,3 +688,11 @@
 - Explored how applications send context to the LLM with each request.
 - Learned how input and output tokens decide the API cost.
 - Understood how to track token usage per customer for billing.
+
+## Day 85 — Chatbot Memory & Context Window
+
+- Started FDE Full Course #4 — Build Your First AI Chatbot (first half).
+- Learned that LLM API calls are stateless.
+- Built conversation history into the app so the chatbot can follow a conversation.
+- Understood System, User and Assistant roles and system prompts.
+- Learned how ChatGPT-like memory works and what the context window is.
