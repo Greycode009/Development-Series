@@ -696,3 +696,12 @@
 - Built conversation history into the app so the chatbot can follow a conversation.
 - Understood System, User and Assistant roles and system prompts.
 - Learned how ChatGPT-like memory works and what the context window is.
+
+## Day 86 — Context Limits & Hallucinations
+
+- Finished FDE Full Course #4 — Build Your First AI Chatbot.
+- Learned how token usage grows in long conversations and how apps manage context.
+- Understood that prompts don't train the model — app memory is different from model training.
+- Learned how streaming sends the reply token by token.
+- Understood why LLMs hallucinate and how RAG, tools and validation reduce it.
+- Added a full video summary table for quick review.
